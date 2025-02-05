@@ -11,16 +11,6 @@ Welcome to my GitHub! This is where code meets creativity—exploring the depths
 🔹 Workflow: Clean, fast, and optimized for efficiency
 ```
 
-## 🔧 Neovim Magic ✨
-Getting cozy with Neovim? Here’s a slick `.vimrc` / `init.vim` to level up:
-```vim
-set number
-syntax on
-set tabstop=4
-set shiftwidth=4
-set expandtab
-colorscheme gruvbox " Because aesthetics matter
-```
 
 ## ⚡ C Development Setup
 Write clean, efficient C code and compile it like a boss:
